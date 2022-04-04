@@ -1,0 +1,23 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+header{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: aqua;
+}
+
+header nav ul li {
+ list-style: none;
+ display: inline-block;
+ align-items: center;
+}
+
+header nav ul li a {
+ text-decoration: none;
+ padding-right: 10px;
+}
