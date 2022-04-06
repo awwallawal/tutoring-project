@@ -1,4 +1,4 @@
 none.html
-# adding a folder to tht gitignore folder
-/src
+# adding a documentation folder to tht gitignore folder
+/docs
 # just checking the use of gitignore function
